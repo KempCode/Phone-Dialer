@@ -1,4 +1,5 @@
 # Import Android Studio Project
+![phoneDialer](https://github.com/Kempster33/Phone-Dialer/assets/15764472/2c7b1235-16b9-46b9-87bd-cf22cdcd6975)
 
 This README provides instructions for importing and running an Android Studio project.
 
